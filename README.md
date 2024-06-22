@@ -1,1 +1,1 @@
-Web development related projects (HTML, CSS, JSON).
+Web development related projects (HTML, CSS, JS).
